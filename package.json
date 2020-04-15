@@ -1,0 +1,19 @@
+{
+  "name": "focus-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "mobx": "^5.15.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-jest": "^25.2.6",
+    "babel-preset-mobx": "^2.0.0",
+    "jest": "^25.2.7"
+  }
+}
